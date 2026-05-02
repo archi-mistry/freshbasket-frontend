@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-FreshBasket is a modern e-commerce web application that allows users to browse, search, and purchase fresh groceries online.
+FreshBasket is a modern e-commerce web application that allows users to browse, search, and purchase fresh fruits and vegetables online.
 
 ## 🚀 Features
 
